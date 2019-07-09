@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hayal Perdesi Oyuncuları</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+        //sayfa açıldığında otomatik açılması için
+		$("#modalNesne").modal('show');
+	});
+</script>
+</head>
+<body>
+<!-- modal nesnesi başlangıç -->
+<div id="modalNesne" class="modal fade">
+    <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title"><b>Güncel Duyurular</b></h4>
+            </div>
+            <div class="modal-body">
+                <div class="col-md-12">
+                   
+<div align="center"><img src="https://4.bp.blogspot.com/-PepY_NRXekE/V5Fg6PSiBBI/AAAAAAAACCY/bac5rPq9ZHUyMwQR_XNVb1tOatkTYWb8wCEw/s1600/Ba%25C5%259Fl%25C4%25B1ks%25C4%25B1z-3.png" class="img-responsive"></div>
+               </div><br/>
+				<div align="center"><font size= "5";><b><p>Web sitemiz yenilenen yüzüyle yayında!</font><b/></p></div>
+               
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- // modal nesnesi bitiş -->
+</body>
+</html>
